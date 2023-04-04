@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "506228420577",
+    "project_id": "restaurantapp-685a9",
+    "storage_bucket": "restaurantapp-685a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506228420577:android:3a0ec3df6e1018b6fdaca0",
+        "android_client_info": {
+          "package_name": "com.example.restro_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506228420577-dbdeb51263ge0fui5j8pmv3jgrdscnkm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrmPbBgaV3yMLtgXfSJOANtkh9RudekTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506228420577-dbdeb51263ge0fui5j8pmv3jgrdscnkm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
